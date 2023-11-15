@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hulvire
 - 👀 I’m interested in nice js, css code
-- 🌱 I’m currently learning laravel / vue3
+- 🌱 I’m currently learning laravel / vue3 / GSAP
 - 📫 How to reach me ...
 
 <!---
