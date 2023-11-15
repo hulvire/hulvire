@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hulvire
 - 👀 I’m interested in nice js, css code
--    I’m work html / php 
+- 👷‍♂️ I’m use html and php 
 - 🌱 I’m currently learning laravel / vue3 / GSAP
-- 📫 How to reach me ...
+- 😺 cat positive ...
 
 <!---
 hulvire/hulvire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
